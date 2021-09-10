@@ -1,11 +1,13 @@
 <h2> Hi there, I'm <a href="https://www.linkedin.com/in/Elysemelissa">Elyse</a> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://res.cloudinary.com/elyse/image/upload/v1631268687/gummy-coding_1_jx39by.png" width="350">
+<!--<img align='right' src="https://res.cloudinary.com/elyse/image/upload/v1631268687/gummy-coding_1_jx39by.png" width="350"> -->
 
 I'm a Full Stack Web Developer from The Netherlands  🇳🇱 
 
 
 <a href="https://www.lewagon.com/tokyo"><img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="18">&nbsp;  Le Wagon Tokyo</a> graduate (September 2021)
+<br>
+☕️&nbsp;Turning coffee into code
 
 
 This part is under construction :)
