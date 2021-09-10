@@ -1,9 +1,11 @@
 <h2> Hi there, I'm <a href="https://www.linkedin.com/in/Elysemelissa">Elyse</a> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
+<img align='right' src="https://res.cloudinary.com/elyse/image/upload/v1631268687/gummy-coding_1_jx39by.png" width="350">
+
 I'm a Full Stack Web Developer from The Netherlands  🇳🇱 
 
 
-<a href="https://www.lewagon.com/tokyo"><img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="18"></a>&nbsp;  Le Wagon Tokyo graduate (September 2021)
+<a href="https://www.lewagon.com/tokyo"><img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="18">&nbsp;  Le Wagon Tokyo</a> graduate (September 2021)
 
 
 This part is under construction :)
@@ -23,3 +25,5 @@ This part is under construction :)
     <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
     <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
+
+<!---Illustration by Vijay Verma from Ouch!
