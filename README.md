@@ -7,6 +7,8 @@ I'm a Full Stack Web Developer from The Netherlands  🇳🇱
 
 <a href="https://www.lewagon.com/tokyo"><img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="18">&nbsp;  Le Wagon Tokyo</a> graduate (September 2021)
 <br>
+☕️&nbsp;&nbsp;Turning coffee into code
+<br>
 
 
 This part is under construction :)
