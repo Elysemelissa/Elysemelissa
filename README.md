@@ -23,7 +23,7 @@ I'm a Full Stack Web Developer from The Netherlands  🇳🇱
 <br>
 🌱&nbsp;Working on <a href="http://www.freescriber.com/">Freescriber</a>
 <br>
-👩🏼‍💻&nbsp;Currently learning React
+👩🏼‍💻&nbsp;Currently learning React & testing in RSpec
 <br>
 <br>
 
