@@ -39,14 +39,5 @@ I'm a Full Stack Web Developer from The Netherlands  🇳🇱
     <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
-<h3>⏱ This week I spent my time on...</h3>
-
- <!--START_SECTION:waka-->
-```text
-Ruby         35 mins         ███████████████████▓░░░░░   78.32 % 
-JavaScript   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-ERB          3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-```
-<!--END_SECTION:waka-->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elysemelissa&layout=compact&hide=html&theme=nightowl)](https://github.com/Elysemelissa/github-readme-stats)-->
+<!-- <h3>⏱ This week I spent my time on...</h3>
+ -->
