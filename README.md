@@ -40,6 +40,7 @@ I'm a Full Stack Web Developer from The Netherlands  🇳🇱
 </p>
 
 <h3>⏱ This week I spent my time on...</h3>
+
 <!--START_SECTION:waka-->
 ```text
 
