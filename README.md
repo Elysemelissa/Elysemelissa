@@ -39,7 +39,7 @@ I'm a Full Stack Web Developer from The Netherlands  🇳🇱
     <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
-
+<h3>⏱ This week I spent my time on...</h3>
 <!--START_SECTION:waka-->
 ```text
 
