@@ -21,9 +21,9 @@ I'm a Full Stack Web Developer from The Netherlands  🇳🇱
 <br>
 ☕️&nbsp;Turning coffee into code!
 <br>
-🌱&nbsp;Working on Tamagotchi and a freelance project
+🌱&nbsp;Working on my portfolio and a freelance project
 <br>
-👩🏼‍💻&nbsp;Currently learning React & Tailwind CSS
+👩🏼‍💻&nbsp;Currently learning React
 <br>
 <br>
 <p>
