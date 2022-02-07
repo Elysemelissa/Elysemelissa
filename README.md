@@ -43,8 +43,8 @@ I'm a Full Stack Web Developer from The Netherlands  🇳🇱
 
 <!--START_SECTION:waka-->
 ```text
-HTML         3 hrs 4 mins    █████████████░░░░░░░░░░░░   52.31 % 
-CSS          2 hrs 46 mins   ███████████▓░░░░░░░░░░░░░   47.26 % 
+CSS    1 hr 56 mins    █████████████▒░░░░░░░░░░░   53.21 % 
+HTML   1 hr 42 mins    ███████████▓░░░░░░░░░░░░░   46.79 % 
 ```
 <!--END_SECTION:waka-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elysemelissa&layout=compact&hide=html&theme=nightowl)](https://github.com/Elysemelissa/github-readme-stats)-->
