@@ -11,7 +11,7 @@
   </a>
 </p>
 
-I'm a Full Stack Web Developer from The Netherlands  🇳🇱 
+I'm a Tokyo-based Web Developer from The Netherlands  🇳🇱 
 
 
 <a href="https://www.lewagon.com/tokyo"><img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="18">&nbsp;  Le Wagon Tokyo</a> graduate (September '21)
