@@ -41,8 +41,7 @@ I'm a Tokyo-based Web Developer from The Netherlands  🇳🇱
 <!--START_SECTION:waka-->
 
 ```text
-CSS    51 mins         ████████████████▒░░░░░░░░   65.71 %
-HTML   26 mins         ████████▓░░░░░░░░░░░░░░░░   34.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
