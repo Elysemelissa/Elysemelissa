@@ -14,13 +14,13 @@
 I'm a Tokyo-based Web Developer from The Netherlands  🇳🇱 
 
 
-<a href="https://www.lewagon.com/tokyo"><img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="18">&nbsp;  Le Wagon Tokyo</a> graduate (September '21)
+<a href="https://www.lewagon.com/tokyo"><img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="18">&nbsp;  Le Wagon Tokyo</a> graduate
 <br>
-☕️&nbsp;Turning coffee into code!
+☕️&nbsp;Turning coffee into code
 <br>
-🌱&nbsp;Working on my portfolio and a freelance project
+👩🏼‍💻&nbsp; Currently learning React
 <br>
-👩🏼‍💻&nbsp;Currently learning React
+🌱&nbsp;Working on my portfolio site & freelance projects
 <br>
 <br>
 <p>
