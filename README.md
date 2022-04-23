@@ -16,9 +16,11 @@ I'm a Tokyo-based Web Developer from The Netherlands  🇳🇱
 
 <a href="https://www.lewagon.com/tokyo"><img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="18">&nbsp;  Le Wagon Tokyo</a> graduate
 <br>
-☕️&nbsp;Turning coffee into code
+<a href="https://mercan.mercari.com/articles/33259/">💻&nbsp;Build@Mercari 2022</a> trainee
 <br>
-👩🏼‍💻&nbsp; Currently learning React
+☕️&nbsp;Turning coffee into code!
+<br>
+👩🏼‍💻&nbsp; Currently learning Python
 <br>
 🌱&nbsp;Working on my portfolio site & freelance projects
 <br>
