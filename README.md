@@ -43,7 +43,7 @@ I'm a Tokyo-based Web Developer from The Netherlands  🇳🇱
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   16 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
