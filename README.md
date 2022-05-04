@@ -12,7 +12,7 @@
 
 <a href="https://www.lewagon.com/tokyo"><img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="18">&nbsp;  Le Wagon Tokyo</a> graduate
 <br>
-<a href="https://mercan.mercari.com/articles/33259/">💻&nbsp;Build@Mercari 2022</a> trainee
+<a href="https://mercan.mercari.com/articles/33259/">💻&nbsp;Build@Mercari</a> '22 trainee
 <br>
 ☕️&nbsp;Turning coffee into code!
 <br>
