@@ -2,7 +2,6 @@
 
 <!--<img align='right' src="https://res.cloudinary.com/elyse/image/upload/v1631268687/gummy-coding_1_jx39by.png" width="350"> -->
 <p>
-<img src="https://www.codewars.com/users/ElyseCodes/badges/large" align='right'>
 <a href="https://www.linkedin.com/in/elysemelissa" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
 </a>
@@ -22,6 +21,7 @@
 🌱&nbsp;Working on my portfolio site & freelance projects
 <br>
 <br>
+<img src="https://www.codewars.com/users/ElyseCodes/badges/small">
 <p>
     <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
     <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
