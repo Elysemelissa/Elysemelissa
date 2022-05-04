@@ -1,18 +1,15 @@
 <h2> Hi there, I'm Elyse <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <!--<img align='right' src="https://res.cloudinary.com/elyse/image/upload/v1631268687/gummy-coding_1_jx39by.png" width="350"> -->
-
 <p>
-  <a href="https://www.linkedin.com/in/elysemelissa" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/elysecodes" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
-  </a>
+<img src="https://www.codewars.com/users/ElyseCodes/badges/large" align='right'>
+<a href="https://www.linkedin.com/in/elysemelissa" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/elysecodes" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+</a>
 </p>
-
-I'm a Tokyo-based Web Developer from The Netherlands  🇳🇱 
-
 
 <a href="https://www.lewagon.com/tokyo"><img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="18">&nbsp;  Le Wagon Tokyo</a> graduate
 <br>
