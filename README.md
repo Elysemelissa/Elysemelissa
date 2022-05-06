@@ -3,10 +3,10 @@
 <!--<img align='right' src="https://res.cloudinary.com/elyse/image/upload/v1631268687/gummy-coding_1_jx39by.png" width="350"> -->
 <p>
 <a href="https://www.linkedin.com/in/elysemelissa" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=6AA5C5" alt="LinkedIn"/>
 </a>
 <a href="https://twitter.com/elysecodes" target="_blank">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=6AA5C5" alt="Twitter"/>
 </a>
 </p>
 
