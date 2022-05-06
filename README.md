@@ -10,18 +10,18 @@
 </a>
 </p>
 
-<a href="https://www.lewagon.com/tokyo"><img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="18">&nbsp;  Le Wagon Tokyo</a> graduate
+<a href="https://www.lewagon.com/tokyo" target="_blank" ><img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="18">&nbsp;  Le Wagon Tokyo</a> graduate
 <br>
-<a href="https://mercan.mercari.com/articles/33259/">💻&nbsp;Build@Mercari</a> '22 trainee
+<a href="https://mercan.mercari.com/articles/33259/" target="_blank">💻&nbsp;Build@Mercari</a> '22 trainee
 <br>
 ☕️&nbsp;Turning coffee into code!
 <br>
 👩🏼‍💻&nbsp; Currently learning Python
 <br>
-🌱&nbsp;Working on my portfolio site & freelance projects
+🌱&nbsp;Working on my portfolio site
 <br>
 <br>
-<img src="https://www.codewars.com/users/ElyseCodes/badges/small">
+<a href="https://www.codewars.com/users/ElyseCodes" target="_blank"><img src="https://www.codewars.com/users/ElyseCodes/badges/small"></a>
 <p>
     <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
     <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
