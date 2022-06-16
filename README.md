@@ -41,7 +41,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Ruby    24 mins         ███████████░░░░░░░░░░░░░░   44.36 %
+Other   15 mins         ███████░░░░░░░░░░░░░░░░░░   28.08 %
 ```
 
 <!--END_SECTION:waka-->
