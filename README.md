@@ -5,9 +5,6 @@
 <a href="https://www.linkedin.com/in/elysemelissa" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=6AA5C5" alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/elysecodes" target="_blank">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=6AA5C5" alt="Twitter"/>
-</a>
 </p>
 
 <a href="https://www.lewagon.com/tokyo" target="_blank" ><img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="18">&nbsp;  Le Wagon Tokyo</a> graduate
