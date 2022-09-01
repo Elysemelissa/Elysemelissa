@@ -13,7 +13,7 @@
 <br>
 ☕️&nbsp;Turning coffee into code!
 <br>
-👩🏼‍💻&nbsp; Currently learning Go
+👩🏼‍💻&nbsp;Currently learning Go
 <br>
 <br>
 <a href="https://www.codewars.com/users/ElyseCodes" target="_blank"><img src="https://www.codewars.com/users/ElyseCodes/badges/small"></a>
