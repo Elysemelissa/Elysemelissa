@@ -7,13 +7,13 @@
 </a>
 </p>
 
-<a href="https://www.lewagon.com/tokyo" target="_blank" ><img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="18">&nbsp;  Le Wagon Tokyo</a> graduate
+💻&nbsp;Software Engineer Intern at Mercari US
 <br>
-<a href="https://mercan.mercari.com/articles/33259/" target="_blank">💻&nbsp;Build@Mercari</a> '22 trainee
+<a href="https://mercan.mercari.com/en/articles/26923/" target="_blank">👩‍💻&nbsp;Build@Mercari</a> '22 trainee
 <br>
-☕️&nbsp;Turning coffee into code!
+<a href="https://www.lewagon.com/tokyo" target="_blank" ><img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="18">&nbsp; Le Wagon Tokyo</a> graduate
 <br>
-👩🏼‍💻&nbsp;Currently learning Go
+<img src="https://miro.medium.com/max/400/1*Uc-Ey0te8v80aV15zR_Jhg.png" width="18">&nbsp; Currently learning Go
 <br>
 <br>
 <a href="https://www.codewars.com/users/ElyseCodes" target="_blank"><img src="https://www.codewars.com/users/ElyseCodes/badges/small"></a>
