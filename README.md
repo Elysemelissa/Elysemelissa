@@ -7,7 +7,7 @@
 </a>
 </p>
 
-💻&nbsp;Software Engineer Intern at Mercari US
+💻&nbsp;Ex- Software Engineer Intern at Mercari US@Tokyo
 <br>
 <a href="https://mercan.mercari.com/en/articles/26923/" target="_blank">👩‍💻&nbsp;Build@Mercari</a> '22 trainee
 <br>
