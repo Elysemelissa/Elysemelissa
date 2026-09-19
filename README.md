@@ -13,10 +13,6 @@
 <br>
 <a href="https://www.lewagon.com/tokyo" target="_blank" ><img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="18">&nbsp; Le Wagon Tokyo</a> graduate
 <br>
-<img src="https://miro.medium.com/max/400/1*Uc-Ey0te8v80aV15zR_Jhg.png" width="18">&nbsp; Currently learning Go
-<br>
-<br>
-<a href="https://www.codewars.com/users/ElyseCodes" target="_blank"><img src="https://www.codewars.com/users/ElyseCodes/badges/small"></a>
 <p>
     <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
     <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
